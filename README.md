@@ -41,6 +41,8 @@ User: Thank you!
 
 Bot: You’re welcome.
 
+
 The suggestions will be sent to user's mobile phone via sms.
+
 
 Contributed by: You Yan, Haopeng Zhang, Zirui Tan, Xuewei Fan
